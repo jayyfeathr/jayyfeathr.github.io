@@ -1,0 +1,353 @@
+
+
+@media screen and (max-width: 600px) {
+    .body3 {
+        width:550px;
+        background-image: url(https://cdn.shopify.com/s/files/1/0160/2840/1712/products/stonks.png?v=1613027396);
+        background-position: left;
+        background-size: 28px 28px;
+    }
+    .welcome {
+       position: relative;
+       box-sizing: border-box;
+       font-size: 10px;
+       display:inline;
+       padding-top:-10px;
+       background-color:rgb(241, 240, 229);
+       box-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+    }
+    .sub {
+        vertical-align: super;
+        font-size:10px;
+        text-decoration: double underline rgb(107, 91, 4);
+    
+    }
+#stuff4 {
+    text-align: left;
+    font-family: fantasy;
+    font-size: 20px;
+    border:1px solid black;
+    background-image: url(https://www.pikpng.com/pngl/b/57-578017_bitcoin-png-image-bitcoin-images-png-clipart.png);
+    background-position: left;
+    text-decoration: double underline;
+    background-size: 20px;
+    font-weight: bold;
+    background-color:gold;
+    background-color:gold;
+    padding:5px;
+    position:relative;
+    text-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+    margin-top:-15px;
+    box-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+    }
+    .yo {
+        padding:-10px;
+        color:blueviolet;
+        text-decoration: underline;
+        text-align:left;
+        font-family: fantasy;
+        text-decoration-color: black;
+        border: 1px solid black;
+        background-color:greenyellow;
+        background-image: url(https://www.pikpng.com/pngl/b/294-2947123_ethereum-tokens-clipart.png);
+        background-size: 135px;
+        background-position:center;
+        text-decoration-color: violet;
+        text-decoration-style:wavy;
+        margin-top:-10px;
+        padding:20px;
+        box-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+        
+    }
+    #u1, #u2 {
+        
+        font-size: 20px;
+        color: transparent;
+        font-size:5px;
+        
+       
+    }
+    .yo1 {
+        border:2px solid rgba(69, 127, 65, 0.676);
+        background-color:chartreuse;
+        margin: 2px;
+        font-size: 20px;
+        margin-top:-10px;
+        padding:2px;
+        box-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+         
+}
+.link1:hover, .link2:hover, .link3:hover {
+    text-decoration: underline;
+    color:darkgoldenrod;
+    text-decoration-color: cornflowerblue;
+    font-size:10px;
+}
+.link1, .link2, .link3 {
+    font-family: fantasy;
+    text-decoration: none;
+    color:black;
+    position:absolute;
+    margin-left:-15px;
+    margin-right:-30px;
+    font-size:xx-small;
+    }
+
+.wallet, .link1, .link2, .link3 {
+    font-family: fantasy;
+    border: solid white;
+    background-color:rgb(249, 242, 242);
+    box-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);}
+.wallet2 {
+    border: solid white;
+    background-color:gainsboro;
+    padding-top: -10px;
+    padding:1px;
+    font-size:10px;}
+
+    
+  }
+.wallet {
+    
+    box-sizing: border-box 2px solid black;
+    
+ 
+    background-image: url(https://cdn0.iconfinder.com/data/icons/financial-transaction/64/financial-transaction-qr-code-money-cash-1024.png);
+    background-size: 10px;
+    
+}
+.trust, .coinbase, .metamask {
+    height: 20px;
+    width: 20px;
+    position:relative;
+    margin-left:50px;
+    margin-top:-20px;}  
+
+    .stuff {
+        box-sizing: border-box;
+        font-size: 5px;
+        font-family: fantasy;
+        padding: 5px;
+        background-color:rgb(217, 214, 199);
+        box-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+        
+    }
+    #body {
+        box-sizing: border-box;
+        font-size:7px;
+        position:relative
+    }
+    #pp, #ps {
+        text-decoration: underline;
+        color:darkslateblue
+    
+    }
+    #bodystonk {
+        text-decoration: underline wavy royalblue;
+        color:royalblue
+    }
+    #sup1 {
+        color:royalblue
+    }
+    #sup2 {
+        color: darkslateblue;
+    }
+    #our {
+        font-style:italic
+    }
+    
+    
+
+
+
+
+@media screen and (min-width:601px) {
+    .body3 {
+        width:1000px;
+        background-image: url(https://cdn.shopify.com/s/files/1/0160/2840/1712/products/stonks.png?v=1613027396);
+        background-position: left;
+        background-size: 100px 90px;
+    }
+    .welcome {
+        position: relative;
+        box-sizing: border-box;
+        font-size: 20px;
+        display:inline;
+        padding-top:-10px;
+        background-color:rgb(241, 240, 229);
+        box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);}
+        .sub {
+            vertical-align: super;
+            font-size:10px;
+            text-decoration: double underline rgb(107, 91, 4);}
+
+        #wallet {
+            position: relative;
+            box-sizing: border-box;
+            font-size: 20px;
+        }
+        .wallet, #link1, #link2, #link3, .yo {
+            position: relative;
+            box-sizing: border-box;
+            font-size: 20px;} 
+            .sub {
+                vertical-align: super;
+                font-size:30px;
+                text-decoration: double underline rgb(107, 91, 4);
+            
+            }
+    #stuff4 {
+                text-align: left;
+                font-family: fantasy;
+                font-size: 60px;
+                border:2px solid black;
+                background-image: url(https://www.pikpng.com/pngl/b/57-578017_bitcoin-png-image-bitcoin-images-png-clipart.png);
+                background-position: center;
+                text-decoration: double underline;
+                background-size: 200px;
+                font-weight: bold;
+                background-color:gold;
+                background-color:gold;
+                padding:15px;
+                position:relative;
+                text-shadow: -1px -1px 0 rgb(142, 16, 16), 1px -1px 0 rgb(30, 174, 187), -1px 1px 0 rgb(24, 205, 48), 1px 1px 0 rgb(226, 233, 37);
+                margin-top:-15px;
+                box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);
+                }
+             
+    .yo {
+                color:blueviolet;
+                text-decoration: underline;
+                text-align:left;
+                font-family: fantasy;
+                font-size: 50px;
+                text-decoration-color: black;
+                border: 2px solid black;
+                background-color:greenyellow;
+                background-image: url(https://www.pikpng.com/pngl/b/294-2947123_ethereum-tokens-clipart.png);
+                background-size: 135px;
+                background-position:center;
+                text-decoration-color: violet;
+                text-decoration-style:wavy;
+                margin-top:-30px;
+                padding:40px;
+                box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);
+                
+            }
+
+    #u1, #u2 {
+                font-size: 50px;
+                color: transparent
+            }
+           
+           
+    .yo1 {
+                border:2px solid rgba(69, 127, 65, 0.676);
+                background-color:chartreuse;
+                margin: 2px;
+                font-size: 30px;
+                margin-top:-10px;
+                padding:2px;
+                box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);}
+
+          
+
+.link1:hover, .link2:hover, .link3:hover {
+                text-decoration: underline;
+                color:darkgoldenrod;
+                text-decoration-color: cornflowerblue;
+                font-size:30px;
+            }
+
+.link1, .link2, .link3 {
+                text-decoration: none;
+                color:black;
+                position:absolute;
+                margin-top:23px;
+                margin-left:-20px;
+                
+                
+
+            }
+        
+            
+
+    #our {
+                font-style:italic
+            }
+            
+    .wallet, .link1, .link2, .link3 {
+                    font-family: fantasy;
+                    border: solid white;
+                    background-color:rgb(249, 242, 242);
+                    box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);
+                 
+                    
+                    }
+           
+    .wallet2 {
+                border: solid white;
+                background-color:gainsboro;
+                padding-top: -20px;
+                padding:1px;
+                font-size:20px;
+                box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);
+            }
+            
+        
+    .wallet {
+                box-sizing: border-box 2px solid black;
+                
+                margin:10px black;
+                background-image: url(https://cdn0.iconfinder.com/data/icons/financial-transaction/64/financial-transaction-qr-code-money-cash-1024.png);
+                background-size: 50px
+            }
+    .stuff {
+                box-sizing: border-box;
+                font-size: 17px;
+                font-family: fantasy;
+                padding: 5px;
+                background-color:rgb(217, 214, 199);
+                box-shadow: -3px -3px 0 rgb(142, 16, 16), 3px -3px 0 rgb(30, 174, 187), -3px 3px 0 rgb(24, 205, 48), 3px 3px 0 rgb(226, 233, 37);
+                
+            }
+            #body {
+                box-sizing: border-box;
+                font-size:17px;
+                position:relative
+            }
+            #pp, #ps {
+                text-decoration: underline;
+                color:darkslateblue
+            
+            }
+            #bodystonk {
+                text-decoration: underline wavy royalblue;
+                color:royalblue
+            }
+            #sup1 {
+                color:royalblue
+            }
+            #sup2 {
+                color: darkslateblue;
+            }
+            .stonkimage {
+                height: 100px;
+                width: 90px;
+              
+            }
+            
+            
+.trust, .coinbase, .metamask {
+                height: 50px;
+                width: 50px;
+                position:relative;
+                margin-left:110px;
+                margin-top:-10px;
+                padding-top:30px;
+                padding:20px
+                
+            }
+         
+}
+
