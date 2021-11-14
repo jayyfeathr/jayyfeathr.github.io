@@ -84,13 +84,13 @@
     box-sizing: border-box;
     border:2px solid black;
     float:right;
-    font-size:0px;
+    font-size:1px;
     text-shadow: -.5px -.5px 0 rgb(142, 16, 16), .5px -.5px 0 rgb(30, 174, 187), -.5px .5px 0 rgb(24, 205, 48), .5px .5px 0 rgb(226, 233, 37);
     top:169px;
     left:230px;
     position: absolute;
     background-image: url(https://i.kym-cdn.com/entries/icons/original/000/036/128/injusticecover.jpg);
-    background-size:300px 180px;
+    background-size:300px;
     background-position: center;
     width: 300px;
     height: 200px;
@@ -200,7 +200,7 @@
     color:rgb(120, 5, 5);
     letter-spacing:.05px .05px .05px .05px;
     font-variant: small-caps;
-    position:absolute;
+    position:relative;
     
    
 }
@@ -213,12 +213,12 @@
     font-size: 13px;
     letter-spacing: .09px;
     font-variant: small-caps;
-    position: absolute;
+    position: relative;
 }
 #banker {
     padding-top:0px;
     font-family:monospace;
-    position:absolute;
+    position:relative;
     font-size: 15px;
    font-weight: 900px;
    letter-spacing: .09px;
@@ -305,8 +305,12 @@
     #our {
         font-style:italic
     }
-    .something5 {
+    .getrich2 {
         position:relative;
+       bottom:195px;
+        box-sizing: border-box;
+        right:115px;
+        
      
     }
     
@@ -626,7 +630,7 @@
                 color:rgb(120, 5, 5);
                 letter-spacing:.05px .05px .05px .05px;
                 font-variant: small-caps;
-                position:absolute;
+                position:relative;
                 
                
             }
@@ -639,12 +643,12 @@
                 font-size: 60px;
                 letter-spacing: .09px;
                 font-variant: small-caps;
-                position: absolute;
+                position: relative;
             }
             #banker {
                 padding-top:0px;
                 font-family:monospace;
-                position:absolute;
+                position:relative;
                 font-size: 65px;
                font-weight: 900px;
                letter-spacing: .09px;
@@ -655,7 +659,9 @@
             }
          
          .getrich2 {
-             position:relative
+             position:relative;
+             bottom:775px;
+
          }
 }
 
